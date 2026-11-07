@@ -18,7 +18,7 @@ backend/dist/
 npm-debug.log*
 
 # OS files
-.DS_Store
+.DS_StoreS
 Thumbs.db
 
 # Editor
